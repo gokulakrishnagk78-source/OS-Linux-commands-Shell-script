@@ -1,4 +1,4 @@
-<img width="953" height="165" alt="WhatsApp Image 2026-04-30 at 08 22 48" src="https://github.com/user-attachments/assets/fbc57aaf-8dbd-4593-b6c2-bdb4c75764db" />
+
 
 
 # OS-Linux-commands-Shell-scripting
