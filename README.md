@@ -1,9 +1,3 @@
-<img width="960" height="529" alt="ee3be6df-926c-41f2-8624-f4067a218510" src="https://github.com/user-attachments/assets/bfdbfd65-6005-4705-93fe-58ae88fbc6e7" />
-<img width="982" height="167" alt="4d962be5-55dc-4af9-8f1b-b28f9d56e4c6" src="https://github.com/user-attachments/assets/9bbbc443-d02c-4e8e-8dbe-83041f615582" />
-<img width="953" height="165" alt="2b4e5c69-63c8-446b-9036-874dde04eebd" src="https://github.com/user-attachments/assets/e75b21af-61b1-4e61-b113-af966669b1ca" />
-
-
-
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
