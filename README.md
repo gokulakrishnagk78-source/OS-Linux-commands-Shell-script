@@ -1,4 +1,5 @@
-<img width="953" height="165" alt="WhatsApp Image 2026-04-30 at 08 22 48" src="https://github.com/user-attachments/assets/0763760b-b324-4b04-98da-8e534d8b4137" />
+<img width="953" height="165" alt="WhatsApp Image 2026-04-30 at 08 22 48" src="https://github.com/user-attachments/assets/6e008c73-83e0-41c3-ab5f-03c65c5cd4ea" />
+
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
