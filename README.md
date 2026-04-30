@@ -41,7 +41,8 @@ s.n. dasgupta
 ```
 ### Display the content of the files
 cat < file1
-## OUTPUT
+<img width="953" height="165" alt="374ddc3d-44e2-4017-9d1f-b5aeecf50e26" src="https://github.com/user-attachments/assets/56987898-f49b-4532-a76a-9a5493867c39" />
+# OUTPUT
 
 
 
@@ -49,7 +50,9 @@ cat < file2
 ## OUTPUT
 
 
-# Comparing Files
+<img width="960" height="529" alt="388afb35-84b8-4d17-a11c-f52ed03e0d27" src="https://github.com/user-attachments/assets/c6e0d051-bbc2-4980-a7c5-43791a8b350a" />
+<img width="982" height="167" alt="68ea6ff4-d07b-40e4-8ef7-87ed2bd8ae0b" src="https://github.com/user-attachments/assets/298b9982-188a-45d1-be57-da7604957644" />
+ Comparing Files
 cmp file1 file2
 ## OUTPUT
  
@@ -85,16 +88,16 @@ cut -c1-3 file11
 
 
 
-
+<img width="960" height="529" alt="388afb35-84b8-4d17-a11c-f52ed03e0d27" src="https://github.com/user-attachments/assets/c0e65fde-7747-43f2-932f-118d52f47318" />
 cut -d "|" -f 1 file22
 ## OUTPUT
 
 
-
+<img width="986" height="421" alt="4554ac73-feae-4513-8562-73564da9b55e" src="https://github.com/user-attachments/assets/09f18f28-4752-422d-827e-66a73b240246" />
 cut -d "|" -f 2 file22
 ## OUTPUT
 
-
+<img width="946" height="468" alt="8cb2c01a-666b-4c1c-864e-c27cc972c08c" src="https://github.com/user-attachments/assets/b289138e-fd6a-4aae-8d79-7081f1d67853" />
 cat < newfile 
 ```
 Hello world
@@ -108,17 +111,15 @@ hello world
 grep Hello newfile 
 ## OUTPUT
 
-
-
+<img width="1005" height="167" alt="WhatsApp Image 2026-04-30 at 10 15 28" src="https://github.com/user-attachments/assets/377be1b7-a689-4f86-8987-b6c036a6cc4b" />
 grep hello newfile 
 ## OUTPUT
 
 
 
-
+<img width="984" height="105" alt="dfface50-81fb-476b-9acd-cb90bbbf71d0" src="https://github.com/user-attachments/assets/7afee1ca-23e8-42f0-a24c-d455a30d559d" />
 grep -v hello newfile 
 ## OUTPUT
-
 
 
 cat newfile | grep -i "hello"
